@@ -53,7 +53,7 @@ function Main(props: { layout?: "side-menu" | "simple-menu" | "top-menu" }) {
               ])}
             >
               {" "}
-              Story{" "}
+              IVY PLAT{" "}
             </span>
           </Link>
           {/* END: Logo */}
